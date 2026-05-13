@@ -1,36 +1,39 @@
-Portfólio - Projetos em Node.js
-Este repositório faz parte da minha jornada de aprendizado em desenvolvimento backend com Node.js. Aqui eu reúno projetos práticos que venho desenvolvendo para melhorar minhas habilidades e ganhar mais experiência com programação.
+# Portfólio - Projetos em Node.js
 
-📌 Projeto em destaque: Gerador de QR Code e Senhas
-Neste projeto, desenvolvi uma aplicação simples que roda no terminal e resolve duas tarefas bem úteis no dia a dia:
+Oi! 👋
+Este repositório faz parte da minha jornada de aprendizado em desenvolvimento backend com Node.js. Aqui reúno projetos práticos que venho desenvolvendo para aprimorar minhas habilidades e ganhar mais experiência com programação.
 
-Geração de QR Codes a partir de textos ou links
+## 📌 Projeto em destaque: Gerador de QR Code e Senhas
 
-Criação de senhas seguras de forma automática
+Neste projeto, desenvolvi uma aplicação simples que roda no terminal e realiza duas tarefas muito úteis no dia a dia:
 
-A ideia foi trabalhar com funcionalidades reais, focando não só em fazer funcionar, mas também em entender melhor a lógica por trás dessas soluções.
+* Geração de QR Codes a partir de textos ou links
+* Criação automática de senhas seguras
 
-A parte de geração de senhas foi especialmente interessante, pois envolve criação de combinações aleatórias, o que é muito importante quando se fala em segurança e proteção de dados. Já o QR Code traz uma aplicação prática bem comum hoje em dia, principalmente para compartilhamento rápido de informações.
+A proposta foi trabalhar com funcionalidades reais, focando não apenas em fazer funcionar, mas também em compreender melhor a lógica por trás dessas soluções.
 
-🧠 O que esse projeto representa
-Mais do que um projeto simples, ele marca uma evolução no meu aprendizado, principalmente em:
+A geração de senhas foi uma parte importante do projeto, pois envolve combinações aleatórias e conceitos relacionados à segurança de dados. Já a geração de QR Codes traz uma aplicação prática bastante utilizada atualmente para compartilhamento rápido de informações.
 
-Pensar soluções úteis e aplicáveis
+## 🧠 O que esse projeto representa
 
-Trabalhar com lógica para geração de dados (como senhas)
+Mais do que um projeto simples, ele representa uma evolução no meu aprendizado, principalmente em:
 
-Melhorar a organização de projetos
+* Desenvolvimento de soluções úteis e aplicáveis
+* Lógica para geração de dados aleatórios
+* Organização de projetos
+* Prática com Node.js e modularização de código
 
-Ganhar mais confiança no uso do Node.js
+## 🎯 Objetivo
 
-🎯 Objetivo
 Este projeto faz parte da construção do meu portfólio como desenvolvedor. A ideia é continuar evoluindo, adicionando novas funcionalidades e criando projetos cada vez mais completos.
 
-🚀 Próximos passos
+## 🚀 Próximos passos
+
 Pretendo melhorar esse projeto futuramente com:
 
-Personalização das senhas (tamanho, nível de segurança, etc.)
+* Personalização das senhas (tamanho, nível de segurança, etc.)
+* Interface mais amigável
+* Novas funcionalidades voltadas para utilidade no dia a dia
 
-Interface mais amigável
 
 Novas funcionalidades voltadas para utilidade no dia a dia
